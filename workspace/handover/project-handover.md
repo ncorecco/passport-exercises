@@ -17,9 +17,12 @@ Revision: 0123456789abcdef0123456789abcdef01234567
 
 ## Data
 
+Main approved data location: P:\ExampleSupervisor\example-user\synthetic-project
+
 Authoritative location: P:\ExampleSupervisor\example-user\synthetic-project
 
 Temporary locations to remove: D:\example-user\synthetic-project-cache
+
 
 ## Environment
 
